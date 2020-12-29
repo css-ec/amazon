@@ -1,5 +1,2 @@
-
-Hello I am in master branch
-
-Hello I am in development branch--updated in dev branch
-#Conflicts resolved
+Hello I m updating Line1 in master branch
+Deploysh
