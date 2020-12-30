@@ -2,3 +2,5 @@ Hello this is just text file created..!
 hello updated in practice branch..!
 
 adding 3rd line in practice branch!
+
+Practising stash command
