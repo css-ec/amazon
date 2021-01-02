@@ -1,1 +1,2 @@
 Hi Checking git fetch and pull -- added in local repo master
+Writing in master remote git repo to check fetch+merge
